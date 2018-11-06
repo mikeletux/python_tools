@@ -6,7 +6,7 @@
 #Execute "python create_hosts.py" for script usage
 #If any bug or malfunction is found, please contact me via email
 
-#Author: Miguel Sama Merino (miguel.sama@ericsson.com)
+#Author: Miguel Sama Merino (miguelsamamerino@gmail.com)
 #Version: v2
 
 import yaml
